@@ -1,28 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-09-05T12:09:59.619Z"
-        },
-        {
-            "id": 2,
-            "description": "Compra de curso",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 800,
-            "createdAt": "2023-07-05T12:09:59.619Z"
-        },
-        {
-            "id": 3,
-            "description": "Parque de diversões",
-            "type": "outcome",
-            "category": "Lazer",
-            "price": 150,
-            "createdAt": "2021-12-05T12:09:59.619Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-05T12:09:59.619Z"
+    },
+    {
+      "id": 2,
+      "description": "Compra de curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 800,
+      "createdAt": "2023-07-05T12:09:59.619Z"
+    },
+    {
+      "id": 3,
+      "description": "Parque de diversões",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 150,
+      "createdAt": "2021-12-05T12:09:59.619Z"
+    },
+    {
+      "description": "compras",
+      "price": 330,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-06T13:35:11.336Z",
+      "id": 4
+    },
+    {
+      "description": "compras",
+      "price": 1,
+      "category": "1",
+      "type": "income",
+      "createdAt": "2023-09-06T13:38:54.555Z",
+      "id": 5
+    },
+    {
+      "description": "Venda de produto online",
+      "price": 50,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2023-09-06T14:59:50.137Z",
+      "id": 6
+    },
+    {
+      "description": "compras",
+      "price": 2,
+      "category": "teste",
+      "type": "income",
+      "createdAt": "2023-09-06T15:30:46.848Z",
+      "id": 7
+    }
+  ]
 }
